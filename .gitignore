@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Tools
+.cache/
+compile_commands.json
